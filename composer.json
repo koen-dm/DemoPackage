@@ -1,0 +1,14 @@
+{
+    "name": "koen/demo-package",
+    "authors": [
+        {
+            "name": "koendebruijn",
+            "email": "bruijnk@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JsonPlaceholderClient\\": "src/"
+        }
+    }
+}
