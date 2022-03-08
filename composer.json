@@ -1,5 +1,7 @@
 {
     "name": "koendebruijn/demo-package",
+    "description": "PHP library to with placeholder json api",
+    "license": "MIT",
     "authors": [
         {
             "name": "koendebruijn",
