@@ -16,6 +16,10 @@ class JsonPlaceholderClient
         echo "hoi";
     }
 
+    public function nieuweDingen2() {
+        echo "hoihoihoi";
+    }
+
     private function sendRequest($method)
     {
         $ch = curl_init();
