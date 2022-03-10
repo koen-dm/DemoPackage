@@ -12,5 +12,8 @@
         "psr-4": {
             "JsonPlaceholderClient\\": "src/"
         }
+    },
+    "require": {
+        "ext-curl": "*"
     }
 }

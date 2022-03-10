@@ -10,7 +10,10 @@ class JsonPlaceholderClient
 
     public function getAllTodos() {
         return $this->sendRequest("todos");
+    }
 
+    public function nieuweDingen() {
+        echo "hoi";
     }
 
     private function sendRequest($method)
