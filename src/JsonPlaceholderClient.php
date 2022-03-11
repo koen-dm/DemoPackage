@@ -12,13 +12,6 @@ class JsonPlaceholderClient
         return $this->sendRequest("todos");
     }
 
-    public function nieuweDingen() {
-        echo "hoi";
-    }
-
-    public function nieuweDingen2() {
-        echo "hoihoihoi";
-    }
 
     private function sendRequest($method)
     {
